@@ -45,6 +45,8 @@ ZxBot est un bot Discord personnalisable avec une interface graphique conviviale
 - Configuration facile sans modification de code
 - Personnalisation des commandes et réponses
 
+Vidéo: https://www.youtube.com/watch?v=3p3pzcQ2ALw
+
 ## Support
 
 Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à :
